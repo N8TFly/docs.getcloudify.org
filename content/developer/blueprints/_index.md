@@ -68,7 +68,7 @@ Together with node-types, relationships, workflows, and plugins, these are often
 
 ### Relationships
 
-Relationships provide implementation maapings for relationship operations.
+Relationships provide implementation mappings for relationship operations.
 
 For more information about `relationships` see the [specification]({{< relref "developer/blueprints/spec-relationships.md" >}}).
 
